@@ -3,7 +3,7 @@ I am a Physicist from Barcelona, who discovered his pasion for computer science 
 
 🔭 In my profile you will find:
 - My learnings during the Harvard/MIT course for ML [Repo](https://github.com/luiscuervo/Harvard_ML_course)
-- Some of the ML training programs developed during my internship: the covid detector and the cough detector [Repo](https://github.com/luiscuervo/machine_learning)
+- Some of the ML training programs developed during my internship: the covid detector (78% Accuracy) and the cough detector (98%) [Repo](https://github.com/luiscuervo/machine_learning)
 - My Bachelor thesis on Matlab [Repo](https://github.com/luiscuervo/Matlab-Bachelor_thesis)
 - PSQL Dashboards developed during my time as an BI consultant + learnings done while studying the TSQL online course [Repo](https://github.com/luiscuervo/SQL)
 - Data analytic tools developed during my Master's: Decission tree algorithm, KNN, regression and clustering [Repo](https://github.com/luiscuervo/R_studio-Data_analytics)
